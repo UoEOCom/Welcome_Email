@@ -2,23 +2,23 @@
 ## Welcome pack for the Computing Department
 The various training videos and texts below are to introduce you to the basics of the programming languages to be used during your course.   If you are comfortable with them, some of the links may not apply to you and advanced study links have been provided, where applicable.  Transcripts are available on all video sites.  You will not need to download the various software for the programmes above.  Please note that you will be using a web-based IDE for all the programming languages and database queries during the course.  
 
-•	R 
+#### R 
 https://www.edx.org/course/introduction-to-r-for-data-science-3 
 For advanced programmers needing to understand R, take a look at “Advanced R” or “R for Data Science” both by Hadley Wickham
 
-•	Python
+#### Python
 https://www.learnpython.org/ - Beginners, focus on “Learn the Basics” and “Data Science Tutorials”.
 Or https://greenteapress.com/wp/think-python-2e/
 To practice, please use the Python shell - https://www.python.org/shell/
 
-•	SQL 
+#### SQL 
 https://www.khanacademy.org/computing/computer-programming/sql
 
-•	GitHub (you will need to create a student GitHub account once you complete your programme registration)
+#### GitHub (you will need to create a student GitHub account once you complete your programme registration)
 https://guides.github.com/activities/hello-world/ and https://youtu.be/noZnOSpcjYY  
 The [Pro Git](https://git-scm.com/book/en/v2) book by Scott Chacon and Ben Straub  is also a good guide as you delve into gits.
 
-•	Probability and Statistics 
+#### Probability and Statistics 
 To help you brush up on these topics, please visit the [StatsTutor site](http://www.statstutor.ac.uk/topics/) and the [Khan Academy site](https://www.khanacademy.org/math/ap-statistics#prepare-for-the-2019-ap-statistics-exam) that both cover all the key topics in this module.
 
 **You may find it helpful to keep referring to these resources throughout your programme.  A note of these will be made available on the Induction Module on the Moodle platform (_What will I need for my studies?_).**
