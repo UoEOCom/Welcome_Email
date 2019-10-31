@@ -1,5 +1,5 @@
 # Welcome_Pack
-**Welcome pack for the Computing Department**
+## Welcome pack for the Computing Department
 The various training videos and texts below are to introduce you to the basics of the programming languages to be used during your course.   If you are comfortable with them, some of the links may not apply to you and advanced study links have been provided, where applicable.  Transcripts are available on all video sites.  You will not need to download the various software for the programmes above.  Please note that you will be using a web-based IDE for all the programming languages and database queries during the course.  
 
 •	R 
@@ -23,16 +23,16 @@ To help you brush up on these topics, please visit the [StatsTutor site](http://
 
 **You may find it helpful to keep referring to these resources throughout your programme.  A note of these will be made available on the Induction Module on the Moodle platform (_What will I need for my studies?_).**
 
-Key Computer Science Concepts
+### Key Computer Science Concepts
 Below are notes to help you review some key Computer Science concepts before you start your postgraduate programme.  This covers type safety, evaluation rules, and the style guides for the various languages.
 
-Type Safety
+#### Type Safety
 This is a key issue as It prevents (or even discourages) data type errors.  You will come across these during the course (and we’re sure you’ve seen a few in your time programming so far).  The style guides below, as well as the introductory information above, have some information on data types.  Chapter 4 of Vlad Riscutia’s book, [“Programming with Types”](https://www.manning.com/books/programming-with-types) elaborates fully on this topic and the TypeScript [website](http://www.typescriptlang.org/docs/handbook/basic-types.html) has more information on the different types.  You will need to review this information carefully throughout your programme, especially if you are not comfortable with a particular programming language.  
 
-Evaluation Rules 
+#### Evaluation Rules 
 Every programming language has its own evaluation rules for function arguments, such as if else clauses in Python, to end in a True statement/clause.  Ensure you familiarise yourself with these rules in the programming languages stated for this course.
 
-Style Guides
+#### Style Guides
 There is a need to be consistent in the style you use when writing code.  The consistent style ensures that your code is:
 -	Understandable
 -	Amendable
