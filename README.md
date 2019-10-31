@@ -1,5 +1,5 @@
 # Welcome_Pack
-## Welcome Pack for the Computing Department
+## Welcome Pack from the Computing Department
 In addition to the provided reading list, the various training videos and texts below are to introduce you to the basics of the programming languages to be used during your course.   If you are comfortable with them, some of the links may not apply to you and advanced study links have been provided, where applicable.  Transcripts are available on all video sites.  You will not need to download the various software for the programmes (umless you already have them).  This is because you will be using a web-based IDE for all the programming languages and database queries during your course.  
 
 #### R 
