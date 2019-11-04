@@ -1,6 +1,8 @@
 # Welcome_Pack
 ## Welcome Pack from the Computing Department
-In addition to the provided reading list, the various training videos and texts below are to introduce you to the basics of the programming languages to be used during your course.   If you are comfortable with them, some of the links may not apply to you and advanced study links have been provided, where applicable.  Transcripts are available on all video sites.  You will not need to download the various software for the programmes (umless you already have them).  This is because you will be using a web-based IDE for all the programming languages and database queries during your course.  
+In addition to the provided reading list you were sent, the various training videos and weblinks below are to introduce you to the basics of the programming languages to be used during your course.   If you are comfortable with them, some of the links may not apply to you and advanced study links have been provided, where applicable.  Transcripts are available on all video sites given.  
+
+You will not need to download the various software for the programmes (umless you already have them).  This is because you will be using a web-based IDE for all the programming languages and database queries used during your course.  
 
 #### R 
 https://www.edx.org/course/introduction-to-r-for-data-science-3 
@@ -55,4 +57,4 @@ For SQL, [SQL style guide](https://www.sqlstyle.guide/) by Simon Holywell is wid
 -	Compound Statements
 These are areas where mistakes commonly occur, making it difficult for team members to follow your code or creates issues with adaptation (even for you!) later down the line.
 
-Please remember that your tutor is on hand to help you with your programming queries.  You can learn a lot from other students as well as you all bring to the programme varying expertise from diverse educational and professional backgrounds.
+Please remember that your tutor is on hand to help you with your programming queries.  You can also learn a lot from other students as you all bring to the course varying expertise from diverse educational and professional backgrounds.
