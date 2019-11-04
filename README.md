@@ -53,3 +53,6 @@ For SQL, [SQL style guide](https://www.sqlstyle.guide/) by Simon Holywell is wid
 -	Comments
 -	Quotes
 -	Compound Statements
+These are areas where mistakes commonly occur, making it difficult for team members to follow your code or creates issues with adaptation (even for you!) later down the line.
+
+Please remember that your tutor is on hand to help you with your programming queries.  You can learn a lot from other students as well as you all bring to the programme varying expertise from diverse educational and professional backgrounds.
