@@ -4,24 +4,30 @@ In addition to the provided reading list you were sent, the various training vid
 
 You will not need to download the various software for the programmes (umless you already have them).  This is because you will be using a web-based IDE for all the programming languages and database queries used during your course.  
 
-#### R 
-https://www.edx.org/course/introduction-to-r-for-data-science-3 
-For advanced programmers needing to understand R, take a look at “Advanced R” or “R for Data Science” both by Hadley Wickham
+#### GitHub (Used in all courses.  You will need to create a student GitHub account once you complete your programme registration)
+https://guides.github.com/activities/hello-world/ and https://youtu.be/noZnOSpcjYY  
+The [Pro Git](https://git-scm.com/book/en/v2) book by Scott Chacon and Ben Straub  is also a good guide as you delve into gits.
 
-#### Python
+#### Python (Used in )
 https://www.learnpython.org/ - Beginners, focus on “Learn the Basics” and “Data Science Tutorials”.
 Or https://greenteapress.com/wp/think-python-2e/
 To practice, please use the Python shell - https://www.python.org/shell/
 
-#### SQL 
+#### R (Used in )
+https://www.edx.org/course/introduction-to-r-for-data-science-3 
+For advanced programmers needing to understand R, take a look at [“Advanced R”](https://adv-r.hadley.nz/) or [“R for Data Science”](https://r4ds.had.co.nz/), both by Hadley Wickham
+
+#### SQL (Used in )
 https://www.khanacademy.org/computing/computer-programming/sql
 
-#### GitHub (you will need to create a student GitHub account once you complete your programme registration)
-https://guides.github.com/activities/hello-world/ and https://youtu.be/noZnOSpcjYY  
-The [Pro Git](https://git-scm.com/book/en/v2) book by Scott Chacon and Ben Straub  is also a good guide as you delve into gits.
+#### C/C++ (Used in Computer Science)
+https://www.learn-c.org/ and https://www.learn-cpp.org/
+https://www.cprogramming.com/
+For Advanced programmers, see http://www.icce.rug.nl/documents/cplusplus/
+For FAQs on both programming languages, see http://c-faq.com/
 
 #### Probability and Statistics 
-To help you brush up on these topics, please visit the [StatsTutor site](http://www.statstutor.ac.uk/topics/) and the [Khan Academy site](https://www.khanacademy.org/math/ap-statistics#prepare-for-the-2019-ap-statistics-exam) that both cover all the key topics in this module.
+To help you brush up on these topics, please visit the [StatsTutor site](http://www.statstutor.ac.uk/topics/) and the [Khan Academy site](https://www.khanacademy.org/math/ap-statistics#prepare-for-the-2019-ap-statistics-exam) that both cover all the key topics in the respective module.
 
 **You may find it helpful to keep referring to these resources throughout your programme.  A note of these will be made available on the Induction Module on the Moodle platform (_What will I need for my studies?_).**
 
@@ -32,7 +38,7 @@ Below are notes to help you review some key Computer Science concepts before you
 This is a key issue as It prevents (or even discourages) data type errors.  You will come across these during the course (and we’re sure you’ve seen a few in your time programming so far).  The style guides below, as well as the introductory information above, have some information on data types.  Chapter 4 of Vlad Riscutia’s book, [“Programming with Types”](https://www.manning.com/books/programming-with-types) elaborates fully on this topic and the TypeScript [website](http://www.typescriptlang.org/docs/handbook/basic-types.html) has more information on the different types.  You will need to review this information carefully throughout your programme, especially if you are not comfortable with a particular programming language.  
 
 #### Evaluation Rules 
-Every programming language has its own evaluation rules for function arguments, such as if else clauses in Python, to end in a True statement/clause.  Ensure you familiarise yourself with these rules in the programming languages stated for this course.
+Every programming language has its own evaluation rules for function arguments, such as _if...else_ clauses in Python, to end in a _True_ statement/clause.  Ensure you familiarise yourself with these rules in the programming languages stated for your course.
 
 #### Style Guides
 There is a need to be consistent in the style you use when writing code.  The consistent style ensures that your code is:
