@@ -20,7 +20,7 @@ For advanced programmers needing to understand R, take a look at [â€œAdvanced Râ
 #### SQL (Used in modules involving databases)
 https://www.khanacademy.org/computing/computer-programming/sql
 
-#### C/C++ (Used in object-oriented programming m,odules)
+#### C/C++ (Used in object-oriented programming modules)
 https://www.learn-c.org/ and https://www.learn-cpp.org/
 https://www.cprogramming.com/
 For Advanced programmers, see http://www.icce.rug.nl/documents/cplusplus/
