@@ -8,25 +8,25 @@ You will not need to download the various software for the programmes (umless yo
 https://guides.github.com/activities/hello-world/ and https://youtu.be/noZnOSpcjYY  
 The [Pro Git](https://git-scm.com/book/en/v2) book by Scott Chacon and Ben Straub  is also a good guide as you delve into gits.
 
-#### Python (Used in )
+#### Python (Used in most courses)
 https://www.learnpython.org/ - Beginners, focus on “Learn the Basics” and “Data Science Tutorials”.
 Or https://greenteapress.com/wp/think-python-2e/
 To practice, please use the Python shell - https://www.python.org/shell/
 
-#### R (Used in )
+#### R (Used in tandem with Python)
 https://www.edx.org/course/introduction-to-r-for-data-science-3 
 For advanced programmers needing to understand R, take a look at [“Advanced R”](https://adv-r.hadley.nz/) or [“R for Data Science”](https://r4ds.had.co.nz/), both by Hadley Wickham
 
-#### SQL (Used in )
+#### SQL (Used in modules involving databases)
 https://www.khanacademy.org/computing/computer-programming/sql
 
-#### C/C++ (Used in Computer Science)
+#### C/C++ (Used in object-oriented programming m,odules)
 https://www.learn-c.org/ and https://www.learn-cpp.org/
 https://www.cprogramming.com/
 For Advanced programmers, see http://www.icce.rug.nl/documents/cplusplus/
 For FAQs on both programming languages, see http://c-faq.com/
 
-#### Probability and Statistics 
+#### Probability and Statistics (Seen in modules involving Machine Learning)
 To help you brush up on these topics, please visit the [StatsTutor site](http://www.statstutor.ac.uk/topics/) and the [Khan Academy site](https://www.khanacademy.org/math/ap-statistics#prepare-for-the-2019-ap-statistics-exam) that both cover all the key topics in the respective module.
 
 **You may find it helpful to keep referring to these resources throughout your programme.  A note of these will be made available on the Induction Module on the Moodle platform (_What will I need for my studies?_).**
