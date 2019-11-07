@@ -8,19 +8,19 @@ You will not need to download the various software for the programmes (umless yo
 https://guides.github.com/activities/hello-world/ and https://youtu.be/noZnOSpcjYY  
 The [Pro Git](https://git-scm.com/book/en/v2) book by Scott Chacon and Ben Straub  is also a good guide as you delve into gits.
 
-#### Python (Used in most courses)
+#### Python (Used in most courses, including object-oriented programming)
 https://www.learnpython.org/ - Beginners, focus on “Learn the Basics” and “Data Science Tutorials”.
 Or https://greenteapress.com/wp/think-python-2e/
 To practice, please use the Python shell - https://www.python.org/shell/
 
-#### R (Used in tandem with Python)
+#### R (Usually used in tandem with Python)
 https://www.edx.org/course/introduction-to-r-for-data-science-3 
 For advanced programmers needing to understand R, take a look at [“Advanced R”](https://adv-r.hadley.nz/) or [“R for Data Science”](https://r4ds.had.co.nz/), both by Hadley Wickham
 
 #### SQL (Used in modules involving databases)
 https://www.khanacademy.org/computing/computer-programming/sql
 
-#### C/C++ (Used in object-oriented programming modules)
+#### C/C++ (Used in some object-oriented programming modules)
 https://www.learn-c.org/ and https://www.learn-cpp.org/
 https://www.cprogramming.com/
 For Advanced programmers, see http://www.icce.rug.nl/documents/cplusplus/
