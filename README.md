@@ -13,7 +13,7 @@ https://www.learnpython.org/ - Beginners, focus on “Learn the Basics” and �
 Or https://greenteapress.com/wp/think-python-2e/
 To practice, please use the Python shell - https://www.python.org/shell/
 
-#### R (Usually used in tandem with Python)
+#### R (Sometimes used in tandem with Python, especially for Mathematical programming)
 https://www.edx.org/course/introduction-to-r-for-data-science-3 
 For advanced programmers needing to understand R, take a look at [“Advanced R”](https://adv-r.hadley.nz/) or [“R for Data Science”](https://r4ds.had.co.nz/), both by Hadley Wickham
 
