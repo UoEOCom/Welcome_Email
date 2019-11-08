@@ -26,9 +26,6 @@ https://www.cprogramming.com/
 For Advanced programmers, see http://www.icce.rug.nl/documents/cplusplus/
 For FAQs on both programming languages, see http://c-faq.com/
 
-#### Probability and Statistics (Seen in modules involving Machine Learning)
-To help you brush up on these topics, please visit the [StatsTutor site](http://www.statstutor.ac.uk/topics/) and the [Khan Academy site](https://www.khanacademy.org/math/ap-statistics#prepare-for-the-2019-ap-statistics-exam) that both cover all the key topics in the respective module.
-
 **You may find it helpful to keep referring to these resources throughout your programme.  A note of these will be made available on the Induction Module on the Moodle platform (_What will I need for my studies?_).**
 
 ### Key Computer Science Concepts
