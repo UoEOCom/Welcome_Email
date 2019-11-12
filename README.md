@@ -61,3 +61,5 @@ For SQL, [SQL style guide](https://www.sqlstyle.guide/) by Simon Holywell is wid
 These are areas where mistakes commonly occur, making it difficult for team members to follow your code or creates issues with adaptation (even for you!) later down the line.
 
 Please remember that your tutor is on hand to help you with your programming queries.  You can also learn a lot from other students as you all bring to the course varying expertise from diverse educational and professional backgrounds.
+
+Welcome again to the University of Essex Online Computing Department.  We look forward to working with you all.
