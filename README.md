@@ -10,7 +10,6 @@ The [Pro Git](https://git-scm.com/book/en/v2) book by Scott Chacon and Ben Strau
 
 #### Python (Used in most courses, including object-oriented programming)
 https://www.learnpython.org/ - Beginners, focus on “Learn the Basics” and “Data Science Tutorials”.
-Or https://greenteapress.com/wp/think-python-2e/
 To practice, please use the Python shell - https://www.python.org/shell/
 
 #### R (Sometimes used in tandem with Python, especially for Mathematical programming)
