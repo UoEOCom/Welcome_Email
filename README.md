@@ -20,6 +20,9 @@ For advanced programmers needing to understand R, take a look at [â€œAdvanced Râ
 #### SQL (Used in modules involving databases)
 https://www.khanacademy.org/computing/computer-programming/sql
 
+#### Java (Also helps you understand object-oriented programming)
+https://www.oracle.com/technetwork/java/javase/java-tutorial-downloads-2005894.html
+
 #### C/C++ (Used in some object-oriented programming modules)
 https://www.learn-c.org/ and https://www.learn-cpp.org/
 https://www.cprogramming.com/
