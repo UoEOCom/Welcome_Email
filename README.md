@@ -28,7 +28,7 @@ For FAQs on both programming languages, see http://c-faq.com/
 
 **You may find it helpful to keep referring to these resources throughout your programme.  A link to this page will also be made available on your induction module on the learning platform.**
 
-#### Key Computer Science Concepts
+### Key Computer Science Concepts
 Below are notes to help you review some key Computer Science concepts before you start your postgraduate programme.  This covers type safety, evaluation rules, and the style guides for the various languages.
 
 * ### Type Safety
