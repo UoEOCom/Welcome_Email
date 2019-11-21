@@ -5,7 +5,7 @@ In addition to the provided reading list you were sent, the various training vid
 You will not need to download the various software for the programmes (unless you already have them).  This is because you will be using a web-based IDE for all the programming languages and database queries used during your course.  
 
 #### GitHub (Used in all courses.  You will need to create a student GitHub account once you complete your programme registration)
-https://guides.github.com/activities/hello-world/ and the GitHub YouTube channel https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw.  The [Pro Git](https://git-scm.com/book/en/v2) book by Scott Chacon and Ben Straub  is also a good guide as you delve into gits.
+https://guides.github.com/activities/hello-world/ and the GitHub YouTube channel https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw.  
 
 #### Python (Used in most courses, including object-oriented programming)
 https://www.learnpython.org/ - Beginners, focus on “Learn the Basics” and “Data Science Tutorials”.
