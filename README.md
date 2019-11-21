@@ -9,7 +9,7 @@ https://introcomputing.org/ This site from Stanford University's Introductory Co
 https://composingprograms.com/  This site offers more text on covering the fundamental aspects of programming and computer science.  
 
 #### Python (Used in most courses, including object-oriented programming)
-https://www.learnpython.org/ - Beginners, focus on “Learn the Basics” and “Data Science Tutorials”.
+https://www.learnpython.org/ - Beginners, focus on “Learn the Basics” and “Data Science Tutorials”.  
 To practice, please use the [Python shell](https://www.python.org/shell/) or https://codingbat.com/python
 
 #### GitHub (Used in all courses.  You will need to create a student GitHub account once you complete your course registration)
@@ -19,11 +19,11 @@ https://guides.github.com/activities/hello-world/ and the GitHub YouTube channel
 https://www.khanacademy.org/computing/computer-programming/sql
 
 #### Java (Also helps you understand object-oriented programming)
-https://www.oracle.com/technetwork/java/javase/java-tutorial-downloads-2005894.html.  
+https://www.oracle.com/technetwork/java/javase/java-tutorial-downloads-2005894.html  
 An online practice space - https://codingbat.com/java
 
 #### R (Sometimes used in tandem with Python, especially for Mathematical programming)
-https://www.edx.org/course/introduction-to-r-for-data-science-3 amd https://swcarpentry.github.io/r-novice-gapminder/
+https://www.edx.org/course/introduction-to-r-for-data-science-3 amd https://swcarpentry.github.io/r-novice-gapminder/  
 For advanced programmers needing to understand R, take a look at [“Advanced R”](https://adv-r.hadley.nz/) or [“R for Data Science”](https://r4ds.had.co.nz/), both by Hadley Wickham.
 
 #### C/C++ (Used in some object-oriented programming modules)
