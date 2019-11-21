@@ -28,7 +28,11 @@ For advanced programmers needing to understand R, take a look at [â€œAdvanced Râ
 
 #### C/C++ (Used in some object-oriented programming modules)
 https://www.learn-c.org/ and https://www.learn-cpp.org/ cater to both beginners and advaced programmers.  Take a look at 
-https://www.cprogramming.com/ as well for more practice.  Another site for Advanced programmers is http://www.icce.rug.nl/documents/cplusplus/.  For FAQs on both programming languages, see http://c-faq.com/
+https://www.cprogramming.com/ as well for more practice.  
+
+Another site for Advanced programmers is http://www.icce.rug.nl/documents/cplusplus/.  
+
+For FAQs on both programming languages, see http://c-faq.com/
 
 **You may find it helpful to keep referring to these resources throughout your programme.  A link to this page will also be made available on your induction module on the learning platform.**
 
