@@ -39,8 +39,8 @@ Every programming language has its own evaluation rules for function arguments, 
 
 * ### Style Guides
 There is a need to be consistent in the style you use when writing code.  The consistent style ensures that your code is:
-    -	Understandable
-    -	Amendable
+   -	Understandable
+   -	Amendable
     -	Reusable
     -	Sustainable
 
