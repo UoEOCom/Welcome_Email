@@ -65,7 +65,7 @@ These are areas where mistakes commonly occur, making it difficult for team memb
 A dreaded process by most computer programmers but highly essential to your work.  It refers to the process of interpreting and diagnosing the cause of errors in your programme.  John DeNero descibes the process of debugging quite succinctly on his [website](https://composingprograms.com/pages/11-getting-started.html#errors).  
 
 ##
-### Finally
+### Finally,
 Please remember that your tutor is on hand to help you with your programming queries.  You can also learn a lot from other students as you all bring to the course varying expertise from diverse educational and professional backgrounds.
 
 Welcome again to the University of Essex Online Computing Department.  We look forward to working with you all.
