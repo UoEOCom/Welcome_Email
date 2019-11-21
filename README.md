@@ -29,7 +29,7 @@ For FAQs on both programming languages, see http://c-faq.com/
 **You may find it helpful to keep referring to these resources throughout your programme.  A link to this page will also be made available on your induction module on the learning platform.**
 
 ### Key Computer Science Concepts
-Below are notes to help you review some key Computer Science concepts before you start your postgraduate programme.  This covers type safety, evaluation rules, and the style guides for the various languages.
+Below are notes to help you review some key Computer Science concepts before you start your programme.  This covers type safety, evaluation rules, and the style guides for the various languages.
 
 * ### Type Safety
 This is a key issue as It prevents (or even discourages) data type errors.  You will come across these during the course (and we’re sure you’ve seen a few in your time programming so far).  The style guides below, as well as the introductory information above, have some information on data types.  Chapter 4 of Vlad Riscutia’s book, [“Programming with Types”](https://www.manning.com/books/programming-with-types) elaborates fully on this topic and the TypeScript [website](http://www.typescriptlang.org/docs/handbook/basic-types.html) has more information on the different types.  You will need to review this information carefully throughout your programme, especially if you are not comfortable with a particular programming language.  
