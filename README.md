@@ -1,4 +1,5 @@
 # Welcome to the Computing Department
+### Practical Application
 In addition to the provided reading list you were sent, the various training videos and weblinks below are to introduce you to the basics of the programming languages to be used during your course.   If you are comfortable with them, some of the links may not apply to you and advanced study links have been provided, where applicable.  Transcripts are available on all video sites given.  
 
 You will not need to download the various software for the programmes (unless you already have them).  This is because you will be using a web-based IDE for all the programming languages and database queries used during your course.  
