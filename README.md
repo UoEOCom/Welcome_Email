@@ -28,7 +28,7 @@ For FAQs on both programming languages, see http://c-faq.com/
 
 **You may find it helpful to keep referring to these resources throughout your programme.  A link to this page will also be made available on your induction module on the learning platform.**
 
-
+##
 ### Key Computer Science Concepts
 Below are notes to help you review some key Computer Science concepts before you start your programme.  This covers type safety, evaluation rules, and the style guides for the various languages.
 
@@ -62,7 +62,7 @@ For SQL, [SQL style guide](https://www.sqlstyle.guide/) by Simon Holywell is wid
 
 These are areas where mistakes commonly occur, making it difficult for team members to follow your code or creates issues with adaptation (even for you!) later down the line.
 
-
+##
 ### Finally
 Please remember that your tutor is on hand to help you with your programming queries.  You can also learn a lot from other students as you all bring to the course varying expertise from diverse educational and professional backgrounds.
 
