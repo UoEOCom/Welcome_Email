@@ -31,7 +31,7 @@ https://www.learn-c.org/ and https://www.learn-cpp.org/ cater to both beginners 
 https://www.cprogramming.com/ as well for more practice.  
 Advanced programmers, take a look at http://www.icce.rug.nl/documents/cplusplus/.  
 
-**You may find it helpful to keep referring to these resources throughout your programme.  A link to this page will also be made available on your induction module on the learning platform.**
+**You may find it helpful to keep referring to these resources throughout your course.  A link to this page will also be made available on your induction module on the learning platform.**
 
 ##
 ### Key Computer Science Concepts
