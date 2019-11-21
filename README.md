@@ -19,7 +19,8 @@ https://guides.github.com/activities/hello-world/ and the GitHub YouTube channel
 https://www.khanacademy.org/computing/computer-programming/sql
 
 #### Java (Also helps you understand object-oriented programming)
-https://www.oracle.com/technetwork/java/javase/java-tutorial-downloads-2005894.html.
+https://www.oracle.com/technetwork/java/javase/java-tutorial-downloads-2005894.html
+
 An online practice space - https://codingbat.com/java
 
 #### R (Sometimes used in tandem with Python, especially for Mathematical programming)
