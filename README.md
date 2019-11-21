@@ -28,7 +28,7 @@ For FAQs on both programming languages, see http://c-faq.com/
 
 **You may find it helpful to keep referring to these resources throughout your programme.  A link to this page will also be made available on your induction module on the learning platform.**
 
-### Key Computer Science Concepts
+#### Key Computer Science Concepts
 Below are notes to help you review some key Computer Science concepts before you start your postgraduate programme.  This covers type safety, evaluation rules, and the style guides for the various languages.
 
 * ### Type Safety
@@ -39,12 +39,12 @@ Every programming language has its own evaluation rules for function arguments, 
 
 * ### Style Guides
 There is a need to be consistent in the style you use when writing code.  The consistent style ensures that your code is:
-  -	Understandable
-  -	Amendable
-  -	Reusable
-  -	Sustainable
+    *	Understandable
+    *	Amendable
+    *	Reusable
+    *	Sustainable
 
-Group work is a key aspect of a data science practitioner’s everyday work life.  So, it is essential to ensure you have a consistent style, whichever coding language you use.  During the course, this will help to ensure your group can collaborate efficiently on projects.  It will also ensure that your work can be assessed correctly by your peers and tutors.  
+Group/team work is a key aspect of a computer science practitioner’s everyday work life.  So, it is essential to ensure you have a consistent style, whichever coding language you use.  During the course, this will help to ensure your group can collaborate efficiently on projects.  It will also ensure that your work can be assessed correctly by your peers and tutors.  
 
 Most organisations have their own guides for the various programming languages used in a project.  One commonly used source for Python is [PEP8](https://www.python.org/dev/peps/pep-0008/).  However, if you are a beginner, this might be a difficult document to read.  A simplified version can be found [here](https://pep8.org/).  
 
