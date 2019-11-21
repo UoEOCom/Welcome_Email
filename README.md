@@ -41,8 +41,8 @@ Every programming language has its own evaluation rules for function arguments, 
 There is a need to be consistent in the style you use when writing code.  The consistent style ensures that your code is:
    -	Understandable
    -	Amendable
-    -	Reusable
-    -	Sustainable
+   -	Reusable
+   -	Sustainable
 
 Group/team work is a key aspect of a computer science practitioner’s everyday work life.  So, it is essential to ensure you have a consistent style, whichever coding language you use.  During the course, this will help to ensure your group can collaborate efficiently on projects.  It will also ensure that your work can be assessed correctly by your peers and tutors.  
 
@@ -58,6 +58,7 @@ For SQL, [SQL style guide](https://www.sqlstyle.guide/) by Simon Holywell is wid
 -	Comments
 -	Quotes
 -	Compound Statements
+
 These are areas where mistakes commonly occur, making it difficult for team members to follow your code or creates issues with adaptation (even for you!) later down the line.
 
 Please remember that your tutor is on hand to help you with your programming queries.  You can also learn a lot from other students as you all bring to the course varying expertise from diverse educational and professional backgrounds.
