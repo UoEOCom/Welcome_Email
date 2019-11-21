@@ -4,16 +4,12 @@ In addition to the provided reading list you were sent, the various training vid
 
 You will not need to download the various software for the programmes (unless you already have them).  This is because you will be using a web-based IDE for all the programming languages and database queries used during your course.  
 
-#### Computing Fundamentals
-https://introcomputing.org/ This site from Stanford University's Introductory Course descibes the nature of computers and also provides a platform fo you to practice.  
-https://composingprograms.com/  This site offers more text on covering the fundamental aspects of programming and computer science.  
+#### GitHub (Used in all courses.  You will need to create a student GitHub account once you complete your course registration)
+https://guides.github.com/activities/hello-world/ and the GitHub YouTube channel https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw
 
 #### Python (Used in most courses, including object-oriented programming)
 https://www.learnpython.org/ - Beginners, focus on “Learn the Basics” and “Data Science Tutorials”.  
 To practice, please use the [Python shell](https://www.python.org/shell/) or https://codingbat.com/python
-
-#### GitHub (Used in all courses.  You will need to create a student GitHub account once you complete your course registration)
-https://guides.github.com/activities/hello-world/ and the GitHub YouTube channel https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw.  
 
 #### SQL (Used in modules involving databases)
 https://www.khanacademy.org/computing/computer-programming/sql
@@ -36,6 +32,10 @@ Advanced programmers, take a look at http://www.icce.rug.nl/documents/cplusplus/
 ##
 ### Key Computer Science Concepts
 Below are notes to help you review some key Computer Science concepts before you start your programme.  This covers type safety, evaluation rules, and the style guides for the various languages.
+
+* #### Computing Fundamentals
+https://introcomputing.org/ This site from Stanford University's Introductory Course descibes the nature of computers and also provides a platform fo you to practice.  
+https://composingprograms.com/  This site offers more text on covering the fundamental aspects of programming and computer science. 
 
 * #### Style Guides
 There is a need to be consistent in the style you use when writing code.  The consistent style ensures that your code is:
