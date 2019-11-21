@@ -31,13 +31,13 @@ For FAQs on both programming languages, see http://c-faq.com/
 ### Key Computer Science Concepts
 Below are notes to help you review some key Computer Science concepts before you start your programme.  This covers type safety, evaluation rules, and the style guides for the various languages.
 
-* ### Type Safety
+* #### Type Safety
 This is a key issue as It prevents (or even discourages) data type errors.  You will come across these during the course (and we’re sure you’ve seen a few in your time programming so far).  The style guides below, as well as the introductory information above, have some information on data types.  Chapter 4 of Vlad Riscutia’s book, [“Programming with Types”](https://www.manning.com/books/programming-with-types) elaborates fully on this topic and the TypeScript [website](http://www.typescriptlang.org/docs/handbook/basic-types.html) has more information on the different types.  You will need to review this information carefully throughout your programme, especially if you are not comfortable with a particular programming language.  
 
-* ### Evaluation Rules 
+* #### Evaluation Rules 
 Every programming language has its own evaluation rules for function arguments, such as _if...else_ clauses in Python, to end in a _True_ statement/clause.  Ensure you familiarise yourself with these rules in the programming languages stated for your course.
 
-* ### Style Guides
+* #### Style Guides
 There is a need to be consistent in the style you use when writing code.  The consistent style ensures that your code is:
    -	Understandable
    -	Amendable
@@ -61,6 +61,7 @@ For SQL, [SQL style guide](https://www.sqlstyle.guide/) by Simon Holywell is wid
 
 These are areas where mistakes commonly occur, making it difficult for team members to follow your code or creates issues with adaptation (even for you!) later down the line.
 
+### Finally
 Please remember that your tutor is on hand to help you with your programming queries.  You can also learn a lot from other students as you all bring to the course varying expertise from diverse educational and professional backgrounds.
 
 Welcome again to the University of Essex Online Computing Department.  We look forward to working with you all.
