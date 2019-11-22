@@ -2,7 +2,7 @@
 ### Practical Application
 In addition to the provided reading list you were sent, the various videos and weblinks below are to introduce you to the basics of the programming languages to be used during your course.   If you are comfortable with them, some of the links may not apply to you and advanced study links have been provided, where applicable.  Transcripts are available on all video sites given.  
 
-You will not need to download the various software for the programmes (unless you already have them).  This is because you will be using a web-based IDE for all the programming languages and database queries used during your course.  
+You will not need to download the various software for the programmes (unless you already have them).  This is because you will be using a web-based IDE for all the programming languages and database queries used during your course.  Where applicable, an online platform is linked for you to use for your practice.
 
 #### GitHub (Used in all courses.  You will need to create a student GitHub account once you complete your course registration)
 https://guides.github.com/activities/hello-world/ and the GitHub YouTube channel https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw
