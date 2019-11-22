@@ -12,7 +12,7 @@ https://www.learnpython.org/ - Beginners, focus on “Learn the Basics” and �
 To practice, please use the [Python shell](https://www.python.org/shell/) or https://codingbat.com/python
 
 #### SQL (Used in modules involving databases)
-https://www.khanacademy.org/computing/computer-programming/sql
+https://www.khanacademy.org/computing/computer-programming/sql.  Please note that Khan Academy is a good site for practicing 
 
 #### Java (Also helps you understand object-oriented programming)
 https://www.oracle.com/technetwork/java/javase/java-tutorial-downloads-2005894.html  
@@ -35,7 +35,8 @@ Below are notes to help you review some key Computer Science concepts before you
 
 * #### Computing Fundamentals
 https://introcomputing.org/ This site from Stanford University's Introductory Course descibes the nature of computers and also provides a platform fo you to practice.  
-https://composingprograms.com/  This site offers more text on covering the fundamental aspects of programming and computer science. 
+https://composingprograms.com/  This site offers more text on covering the fundamental aspects of programming and computer science.  
+https://www.khanacademy.org/computing/computer-science. Khan Academy is good for learning fundamentals on any subject and this part of the site introduces various aspects of computer science, inluding some mathematics. 
 
 * #### Style Guides
 There is a need to be consistent in the style you use when writing code.  The consistent style ensures that your code is:
