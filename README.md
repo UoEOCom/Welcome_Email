@@ -31,7 +31,7 @@ Advanced programmers, take a look at http://www.icce.rug.nl/documents/cplusplus/
 
 ##
 ### Key Computer Science Concepts
-Below are notes to help you review some key Computer Science concepts before you start your programme.  This covers type safety, evaluation rules, and the style guides for the various languages.
+Below are notes to help you review some key Computer Science concepts before you start your programme. 
 
 * #### Computing Fundamentals
 https://introcomputing.org/ This site from Stanford University's Introductory Course descibes the nature of computers and also provides a platform fo you to practice.  
