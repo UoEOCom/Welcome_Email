@@ -27,6 +27,8 @@ https://www.learn-c.org/ and https://www.learn-cpp.org/ cater to both beginners 
 https://www.cprogramming.com/ as well for more practice.  
 Advanced programmers, take a look at http://www.icce.rug.nl/documents/cplusplus/.  
 
+For all these programming languages and many others, take a look at https://www.w3schools.com/ for some more information and practice.  
+
 **You may find it helpful to keep referring to these resources throughout your course.  A link to this page will also be made available on your induction module on the learning platform.**
 
 ##
