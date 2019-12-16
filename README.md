@@ -22,7 +22,7 @@ An online practice space - https://codingbat.com/java
 https://www.edx.org/course/introduction-to-r-for-data-science-3 amd https://swcarpentry.github.io/r-novice-gapminder/  
 For advanced programmers needing to understand R, take a look at [“Advanced R”](https://adv-r.hadley.nz/) or [“R for Data Science”](https://r4ds.had.co.nz/), both by Hadley Wickham.
 
-#### C/C++ (Used in some object-oriented programming modules)
+#### C/C++ (Used in specialist/advanced object-oriented programming modules)
 https://www.learn-c.org/ and https://www.learn-cpp.org/ cater to both beginners and advaced programmers.  Take a look at 
 https://www.cprogramming.com/ as well for more practice.  
 Advanced programmers, take a look at http://www.icce.rug.nl/documents/cplusplus/.  
