@@ -12,7 +12,7 @@ https://www.learnpython.org/ - Beginners, focus on “Learn the Basics” and �
 To practice, please use the [Python shell](https://www.python.org/shell/) or https://codingbat.com/python
 
 #### SQL (Used in modules involving databases)
-https://www.khanacademy.org/computing/computer-programming/sql.  Please note that Khan Academy is a good site for practicing 
+https://www.khanacademy.org/computing/computer-programming/sql.  Please note that Khan Academy is a good site for practicing. 
 
 #### Java (Also helps you understand object-oriented programming)
 https://www.oracle.com/technetwork/java/javase/java-tutorial-downloads-2005894.html  
