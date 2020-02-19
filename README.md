@@ -6,7 +6,7 @@ You will not need to download the various software for the programmes (unless yo
 
 Please read more about Codio **[here](https://codio.com/docs/dashboard/student/)**. You will have access to Codio during your first module. 
 
-#### GitHub (Used in all courses for team projects/collaborative coding).  You will need to create a GitHub account once you complete your course registration.  if you have one already, please ensure you use separate repositories for your studies)
+#### GitHub - Used in all courses for team projects, collaborative coding and your e-portfolio.  You will need to create a GitHub account once you complete your course registration.  if you have one already, please ensure you use separate repositories for your studies.
 https://guides.github.com/activities/hello-world/ and the GitHub YouTube channel https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw
 
 #### Python (Used in most courses, including object-oriented programming)
