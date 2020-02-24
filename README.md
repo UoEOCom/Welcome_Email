@@ -52,7 +52,7 @@ There is a need to be consistent in the style you use when writing code.  The co
 
 Group/team work is a key aspect of a computer science practitioner’s everyday work life.  So, it is essential to ensure you have a consistent style, whichever coding language you use.  During the course, this will help to ensure your group can collaborate efficiently on projects.  It will also ensure that your work can be assessed correctly by your peers and tutors.  
 
-Most organisations have their own guides for the various programming languages used in a project.  One commonly used source for Python is [PEP8](https://www.python.org/dev/peps/pep-0008/).  However, if you are a beginner, this might be a difficult document to read.  A simplified version can be found [here](https://pep8.org/).  
+Most organisations have their own guides for the various programming languages used in a project.  One commonly used source for Python is [PEP8](https://www.python.org/dev/peps/pep-0008/).  However, if you are a beginner, this might be a difficult document to read.  A simplified version can be found [here](https://tandysony.com/2018/02/14/pep-8.html/) and on this [site](https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code).  
 
 For SQL, [SQL style guide](https://www.sqlstyle.guide/) by Simon Holywell is widely used.  Finally, for R, [tiddyverse](https://style.tidyverse.org/) is a popular style guide, which is based on the [Google Style Guides](http://google.github.io/styleguide/).   If you would like to review the Google Style Guides for the coding languages discussed, you can start by focusing on sections covering:
 -	Indentation
