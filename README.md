@@ -39,7 +39,7 @@ For all these programming languages and many others, take a look at https://www.
 Below are notes to help you review some key Computer Science concepts before you start your programme. 
 
 * #### Computing Fundamentals
-https://www.khanacademy.org/computing/computer-science. The Khan Academy website is great for learning fundamentals on any subject and this part of the site introduces various aspects of computer science, starting with algorithms. 
+https://www.khanacademy.org/computing/computer-science. The Khan Academy website is great for learning fundamentals on any subject and this part of the site introduces various aspects of computer science, starting with algorithms.  
 https://introcomputing.org/ This site from Stanford University's Introductory Course descibes the nature of computers and also provides a platform fo you to practice.  
 https://composingprograms.com/  This site offers more text on covering the fundamental aspects of programming and computer science.  
 
