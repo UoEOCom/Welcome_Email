@@ -2,7 +2,7 @@
 ### Practical Application
 In addition to the provided reading list you were sent, the various videos and weblinks below are to introduce you to the basics of the programming languages to be used during your course.   If you are comfortable with them, some of the links may not be suitable for you and advanced study links have been provided, where applicable.  Transcripts are available on all the video sites.  
 
-You will not need to download the various software for the programmes (unless you already have them).  This is because you will be using a web-based IDE, **Codio**, for all the programming languages used during your course. Where applicable, an online platform is linked for you to use for your practice here.  
+You will not need to download the various software for the programmes (unless you already have them).  This is because you will be using a web-based Integrated Development Environment (IDE), **Codio**, for all the programming languages used during your course. Where applicable, an online platform is linked for you to use for your practice here.  
 
 Please read more about Codio **[here](https://codio.com/docs/dashboard/student/)**. You will have access to Codio during your first module. 
 
