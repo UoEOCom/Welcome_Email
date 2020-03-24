@@ -39,9 +39,10 @@ For all these programming languages and many others, take a look at https://www.
 Below are notes to help you review some key Computer Science concepts before you start your programme. 
 
 * #### Computing Fundamentals
+https://www.khanacademy.org/computing/computer-science. Khan Academy is good for learning fundamentals on any subject and this part of the site introduces various aspects of computer science, starting with algorithms. 
 https://introcomputing.org/ This site from Stanford University's Introductory Course descibes the nature of computers and also provides a platform fo you to practice.  
 https://composingprograms.com/  This site offers more text on covering the fundamental aspects of programming and computer science.  
-https://www.khanacademy.org/computing/computer-science. Khan Academy is good for learning fundamentals on any subject and this part of the site introduces various aspects of computer science, inluding some mathematics. 
+
 
 * #### Style Guides
 There is a need to be consistent in the style you use when writing code.  The consistent style ensures that your code is:
