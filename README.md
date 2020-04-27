@@ -22,7 +22,7 @@ https://www.oracle.com/technetwork/java/javase/java-tutorial-downloads-2005894.h
 An online practice space - https://codingbat.com/java
 
 #### R (Sometimes used in tandem with Python, especially for Mathematical programming)
-https://www.edx.org/course/introduction-to-r-for-data-science-3 amd https://swcarpentry.github.io/r-novice-gapminder/  
+https://swcarpentry.github.io/r-novice-gapminder/  
 For advanced programmers needing to understand R, take a look at [“Advanced R”](https://adv-r.hadley.nz/) or [“R for Data Science”](https://r4ds.had.co.nz/), both by Hadley Wickham.
 
 #### C/C++ (Used in specialist/advanced object-oriented programming modules)
