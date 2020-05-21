@@ -4,7 +4,7 @@ In addition to the provided reading list you were sent, the various videos and w
 
 You will not need to download the various software for the programmes (unless you already have them).  This is because you will be using an online Integrated Development Environment (IDE), **Codio**, for all the programming languages used during your course. Where applicable, an online platform is linked for you to use for your practice here.  
 
-Please read more about Codio **[here](https://codio.com/docs/dashboard/student/)**. You will have access to Codio during your first module. 
+Please read more about Codio from their **[website](https://docs.codio.com/students/)**. You will have access to Codio during your first module. 
 
 #### GitHub - Used in all courses for team projects, collaborative coding and your e-portfolio.  
 You will need to create a GitHub account once you complete your course registration.  if you have one already, please ensure you use separate repositories for your studies.  You can upgrade your account with a student pack by applying [here](https://education.github.com/students) and help guide is available [here](https://help.github.com/en/github/teaching-and-learning-with-github-education/applying-for-a-student-developer-pack).  
