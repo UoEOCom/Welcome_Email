@@ -12,7 +12,8 @@ Learn more about GitHub here https://guides.github.com/activities/hello-world/ a
 
 #### Python (Used in most courses, including object-oriented programming)
 https://www.learnpython.org/ - Beginners, focus on “Learn the Basics” and “Data Science Tutorials”.  
-To practice, please use the [Python shell](https://www.python.org/shell/) or https://codingbat.com/python
+To practice, please use the [Python shell](https://www.python.org/shell/) or https://codingbat.com/python.  
+Another site for good practice, especially for beginners, is the [Python eBook project](https://runestone.academy/runestone/books/published/fopp/index.html)
 
 #### SQL (Used in modules involving databases)
 https://www.khanacademy.org/computing/computer-programming/sql.  Please note that Khan Academy is a good site for practicing. 
