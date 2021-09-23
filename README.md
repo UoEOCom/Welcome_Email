@@ -8,7 +8,7 @@ Please read more about Codio from their **[website](https://docs.codio.com/stude
 
 #### GitHub - Used in all courses for team projects, collaborative coding and your e-portfolio.  
 You will need to create a GitHub account once you complete your course registration.  if you have one already, please ensure you use separate repositories for your studies.  You can upgrade your account with a student pack by applying [here](https://education.github.com/students) and help guide is available [here](https://help.github.com/en/github/teaching-and-learning-with-github-education/applying-for-a-student-developer-pack).  
-Learn more about GitHub here https://guides.github.com/activities/hello-world/ and in the [GitHub YouTube channel](https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw).  The [GitHub Learning Lab](https://www.youtube.com/watch?v=9S0p8YMQzsM&feature=youtu.be) is a great place to start getting some practice.  
+We encourage you to learn more about this popular platform using their training - [First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github) and [First Week on GitHub](https://lab.github.com/githubtraining/first-week-on-github).  You can also review a shortened [guide](https://guides.github.com/activities/hello-world/) and the [GitHub YouTube channel](https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw).  The [GitHub Learning Lab](https://www.youtube.com/watch?v=9S0p8YMQzsM&feature=youtu.be) is a great place to start getting some practice.  
 
 #### Python (Used in most courses, including object-oriented programming)
 https://www.learnpython.org/ - Beginners, focus on “Learn the Basics” and “Data Science Tutorials”.  
