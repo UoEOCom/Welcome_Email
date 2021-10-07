@@ -13,7 +13,7 @@ We encourage you to learn more about this popular platform using their training 
 #### Python (Used in most courses, including object-oriented programming)
 https://www.learnpython.org/ - Beginners, focus on “Learn the Basics” and “Data Science Tutorials”.  
 To practice, please use the [Python shell](https://www.python.org/shell/) or https://codingbat.com/python.  
-Another site for good practice, especially for beginners, is the [Python eBook project](https://runestone.academy/runestone/books/published/fopp/index.html)
+Another site for good practice, especially for beginners, is the [Python eBook project](https://runestone.academy/runestone/books/published/fopp/index.html). Finally for a whistle-stop tour why not take a look at [Kaggle's Python training](https://www.kaggle.com/learn/python) which also provides certificates of completion.
 
 #### SQL (Used in modules involving databases)
 https://www.khanacademy.org/computing/computer-programming/sql.  Please note that Khan Academy is a good site for practicing. 
@@ -34,6 +34,9 @@ Advanced programmers, take a look at http://www.icce.rug.nl/documents/cplusplus/
 For all these programming languages and many others, take a look at https://www.w3schools.com/ for some more information and practice.  
 
 **You may find it helpful to keep referring to these resources throughout your course.  A link to this page will also be made available on your induction module on the learning platform.**
+
+#### C/C++ (Used in specialist/advanced object-oriented programming modules)
+Take a look at the short courses offered by [Kaggle](https://www.kaggle.com/learn), many of which are included in both programmes. This will be a great introduction to each module and your programme as a whole. To be sure of which ones to complete, compare them your programme's module titles.
 
 ##
 ### Key Computer Science Concepts
