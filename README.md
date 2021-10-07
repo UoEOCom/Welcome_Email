@@ -33,10 +33,10 @@ Advanced programmers, take a look at http://www.icce.rug.nl/documents/cplusplus/
 
 For all these programming languages and many others, take a look at https://www.w3schools.com/ for some more information and practice.  
 
-**You may find it helpful to keep referring to these resources throughout your course.  A link to this page will also be made available on your induction module on the learning platform.**
-
 #### Data Science and Artificial Intelligence training
 Take a look at the short courses offered by [Kaggle](https://www.kaggle.com/learn), many of which are included in both programmes. This will be a great introduction to each module and your programme as a whole. To be sure of which ones to complete, compare them your programme's module titles.
+
+**You may find it helpful to keep referring to these resources throughout your course.  A link to this page will also be made available on your induction module on the learning platform.**
 
 ##
 ### Key Computer Science Concepts
